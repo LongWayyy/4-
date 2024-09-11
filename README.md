@@ -1,7 +1,7 @@
 
 ![Картинка](https://github.com/user-attachments/assets/4b9b233e-e146-4274-b746-9fae0a6888c2)
 
-'''
+<code>
 @startuml
 left to right direction
 actor "Денежный мешок" as client
@@ -26,4 +26,4 @@ client --> UC7
 client --> UC8
 UC7 --> gaf
 @enduml
-'''
+</code>
